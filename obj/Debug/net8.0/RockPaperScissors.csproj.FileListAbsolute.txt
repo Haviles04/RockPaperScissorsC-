@@ -1,0 +1,14 @@
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfo.cs
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/henry/Documents/csharp/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors
+/Users/henry/Documents/csharp/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.deps.json
+/Users/henry/Documents/csharp/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.runtimeconfig.json
+/Users/henry/Documents/csharp/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.dll
+/Users/henry/Documents/csharp/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.pdb
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.dll
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/refint/RockPaperScissors.dll
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.pdb
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.genruntimeconfig.cache
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/ref/RockPaperScissors.dll
