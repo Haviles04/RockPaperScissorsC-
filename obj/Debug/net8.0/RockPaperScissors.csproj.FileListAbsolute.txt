@@ -12,3 +12,4 @@
 /Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.pdb
 /Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.genruntimeconfig.cache
 /Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/ref/RockPaperScissors.dll
+/Users/henry/Documents/csharp/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.sourcelink.json

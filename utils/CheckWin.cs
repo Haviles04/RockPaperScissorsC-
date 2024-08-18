@@ -4,6 +4,9 @@ namespace RockPaperScissors.Utils
     {
         public static string CheckWin(int player, int comp)
         {
+
+            bool playerWin = player == 0 && comp != 1 || player == 1 && comp != 2 || player == 2 && comp != 0;
+
             const string loss = "You lose!";
             const string win = "You win!";
 
@@ -11,33 +14,10 @@ namespace RockPaperScissors.Utils
             {
                 return "It's a tie!";
             }
+            if (playerWin)
+                return win;
 
-            switch (player)
-            {
-                case 0:
-                    {
-                        if (comp == 1)
-                        {
-                            return loss;
-                        }
-                        return win;
-                    }
-                case 1:
-                    {
-                        if (comp == 2)
-                            return loss;
-                    }
-                    return win;
-                case 2:
-                    {
-                        if (comp == 0)
-                            return loss;
-                    }
-                    return win;
-                default:
-                    return "Invalid Move"!;
-            }
-
+            return loss;
         }
     }
 }
